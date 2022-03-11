@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/lottery-react-web3/static/css/main.8f5230cb.chunk.css",
+    "main.js": "/lottery-react-web3/static/js/main.d08b3365.chunk.js",
+    "main.js.map": "/lottery-react-web3/static/js/main.d08b3365.chunk.js.map",
+    "runtime-main.js": "/lottery-react-web3/static/js/runtime-main.da012c5b.js",
+    "runtime-main.js.map": "/lottery-react-web3/static/js/runtime-main.da012c5b.js.map",
+    "static/css/2.f2512455.chunk.css": "/lottery-react-web3/static/css/2.f2512455.chunk.css",
+    "static/js/2.a8c9dbfe.chunk.js": "/lottery-react-web3/static/js/2.a8c9dbfe.chunk.js",
+    "static/js/2.a8c9dbfe.chunk.js.map": "/lottery-react-web3/static/js/2.a8c9dbfe.chunk.js.map",
+    "index.html": "/lottery-react-web3/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/lottery-react-web3/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.8f5230cb.chunk.css.map": "/lottery-react-web3/static/css/main.8f5230cb.chunk.css.map",
+    "static/js/2.a8c9dbfe.chunk.js.LICENSE.txt": "/lottery-react-web3/static/js/2.a8c9dbfe.chunk.js.LICENSE.txt",
+    "static/media/about-us1.353dc4fa.jpg": "/lottery-react-web3/static/media/about-us1.353dc4fa.jpg",
+    "static/media/card1.a3f09dec.jpg": "/lottery-react-web3/static/media/card1.a3f09dec.jpg",
+    "static/media/card2.3bbb933a.jpg": "/lottery-react-web3/static/media/card2.3bbb933a.jpg",
+    "static/media/card3.5939fe2a.jpg": "/lottery-react-web3/static/media/card3.5939fe2a.jpg",
+    "static/media/figure1.d77a996b.jpg": "/lottery-react-web3/static/media/figure1.d77a996b.jpg",
+    "static/media/figure2.a4d49c73.jpg": "/lottery-react-web3/static/media/figure2.a4d49c73.jpg",
+    "static/media/figure3.8ae47c3c.jpg": "/lottery-react-web3/static/media/figure3.8ae47c3c.jpg",
+    "static/media/figure4.13c0974c.jpg": "/lottery-react-web3/static/media/figure4.13c0974c.jpg",
+    "static/media/lottery-banner.9de45a81.jpg": "/lottery-react-web3/static/media/lottery-banner.9de45a81.jpg",
+    "static/media/lottery.bd32e98b.jpg": "/lottery-react-web3/static/media/lottery.bd32e98b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da012c5b.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.a8c9dbfe.chunk.js",
+    "static/css/main.8f5230cb.chunk.css",
+    "static/js/main.d08b3365.chunk.js"
+  ]
+}
